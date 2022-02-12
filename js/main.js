@@ -12,7 +12,7 @@ showUser.apply(age, ['Горький', ' Максим']);
 
 
 //2 task
-class Options {
+class Options { 
 	constructor(height, width, bg, fontSize, textAlign) {
 		this.height = height;
 		this.width = width;
